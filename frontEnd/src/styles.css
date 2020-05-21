@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: black;
+}
+.button {
+  background: #f5b535;
+  text-transform: uppercase;
+  border: 1px solid #f5b535;
+  font-weight: bold;
+  border-radius: 15px;
+  padding: 10px 35px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  color: black !important;
+  transition: 0.5s;
+}
+
+.button:hover {
+  background: none;
+  color: #f5b535 !important;
+  border: 1px solid #f5b535;
+}
+h2 {
+  font-size: 60px;
+  color: white;
+  font-weight: bold;
+}
