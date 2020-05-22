@@ -112,7 +112,7 @@ h2 {
   color: #f5b535 !important;
 }
 .skils .progres {
-  background: #1a1a1a;
+  background: black;
   height: 13px;
   border-radius: 10px;
   overflow: hidden;
@@ -125,6 +125,7 @@ h2 {
   width: 0;
   background: #f5b535 !important;
   display: block;
+  border-radius: 10px;
 }
 .skils strong {
   color: white;
