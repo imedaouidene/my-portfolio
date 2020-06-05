@@ -193,10 +193,13 @@ footer {
 @media (max-width: 576px) {
   .nav1 {
     transition: 0.5s;
-    background-color: rgba(0, 0, 0, 0.8) !important;
+    background-color: black !important;
     border-bottom: 1px solid #444141 !important;
 
     height: 85px;
+  }
+  .navbar-collapse {
+    background-color: black;
   }
   h2 {
     font-size: 25px;
